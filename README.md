@@ -38,7 +38,7 @@ Once executed, the program should display a window with the simultaion, which ce
 
 To run the simulation you will have to press **S** for each step.
 
-The simultaion stops when all the cells are killed or 
+The simultaion stops when all the cells are killed or the windows is closed.
 
 ## Example
 
