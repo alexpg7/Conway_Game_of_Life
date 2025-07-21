@@ -1,4 +1,9 @@
-# Conway_Game_of_Life
+# 👾 Conway_Game_of_Life ![Static Badge](https://img.shields.io/badge/Original-blue?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/c-grey?style=flat&logo=c)
+![Static Badge](https://img.shields.io/badge/Makefile-green?style=flat&logo=AnkerMake)
+![Static Badge](https://img.shields.io/badge/status-completed-green?style=flat)
+
 A simple simulation of the Conway's Game of Life using 42 School's Libft and Minilibx
 
 ## How to use it
