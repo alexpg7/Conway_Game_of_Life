@@ -52,5 +52,4 @@ As an example, the following command should display the following simultaion:
 ```bash
 ./Conway 100 800
 ```
-
-![til](./gifs/Simulation.gif)
+![til](https://github.com/alexpg7/Images/blob/main/Conway/Simulation.gif)
