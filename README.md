@@ -13,7 +13,13 @@ Firstly, copy the repository into you computer directory
 git clone https://github.com/alexpg7/Conway_Game_of_Life.git Conway_Game_of_Life
 ```
 
-Once copied, just execute the `make` command
+Now, you will need the ``mlx_linux`` library (with the 2021 version), download it using the ``setup.sh`` script:
+
+```bash
+bash setup.sh
+```
+
+Once copied and cloned the library, just execute the `make` command
 
 ```bash
 make
@@ -21,7 +27,7 @@ make
 
 > [!WARNING]
 > The **mlx_linux/configure** file can lead to some problems during the compilation.
-> 
+>
 > To solve them, execute
 > ```bash
 > chmod 777 mlx_linux/configure
